@@ -3,7 +3,7 @@
 int main(void)
 {
 	//string initialisation
-    char task4[60] = #Programming is like building a multilingual puzzle#;
+    char task4[60] = #Programming is like building a multilingual puzzle\n#;
 
 	    puts(task4);
 
