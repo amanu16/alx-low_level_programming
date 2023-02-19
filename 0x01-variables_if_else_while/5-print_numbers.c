@@ -1,7 +1,9 @@
 #include <stdio.h>
 /**
- * main - a program that display single digit base 10 numbers
- * return: away 0 (success)
+ * main - main block
+ * Description: a program that display single digit base 10 numbers
+ * which mans from 0, followed by a new line
+ * Return: 0
  */
 int main(void)
 {
